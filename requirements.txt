@@ -1,0 +1,6 @@
+python-cfworker
+requests==2.5.1
+Flask
+textblob
+simplejson
+psutil
